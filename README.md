@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/anupART](https://github.com/anupART)
 
-- 💬 Ask me about **Java , Java Android Development**
+- 💬 Ask me about **Java , Mobile Development**
 
 - 📫 How to reach me **anuptarone22@gmail.com**
 
