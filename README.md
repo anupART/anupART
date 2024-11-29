@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Flutter Developer from India</h3>
 
 - 🔭 I’m currently working on **Flutter Developer**
-- 
+  
 - 🌱 I’m currently learning **Flutter Backened, Spring Boot**
 
 - 👨‍💻 All of my projects are available at [https://github.com/anupART](https://github.com/anupART)
