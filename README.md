@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Anup Tarone</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+<h3 align="center">A passionate Flutter Developer from India</h3>
 
-- 🌱 I’m currently learning **Flutter , Spring Boot**
+- 🔭 I’m currently working on **Flutter Developer**
+- 
+- 🌱 I’m currently learning **Flutter Backened, Spring Boot**
 
 - 👨‍💻 All of my projects are available at [https://github.com/anupART](https://github.com/anupART)
 
-- 💬 Ask me about **Java , Mobile Development**
+- 💬 Ask me about **Flutter Development , Java**
 
 - 📫 How to reach me **anuptarone22@gmail.com**
 
