@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Flutter Developer**
   
-- 🌱 I’m currently learning **Flutter Backened, Spring Boot**
+- 🌱 I’m currently learning **Flutter Backend, Spring Boot**
 
 - 👨‍💻 All of my projects are available at [https://github.com/anupART](https://github.com/anupART)
 
