@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anup Tarone</h1>
-<h3 align="center">A passionate Flutter Developer from India</h3>
+<h3 align="center">A passionate Java Developer from India</h3>
 
-- 🔭 I’m currently working on **Flutter Developer and Spring Boot Developer**
+- 🔭 I’m currently working on **Spring Boot**
   
 - 🌱 I’m currently learning **Flutter Backend, Spring Boot**
 
